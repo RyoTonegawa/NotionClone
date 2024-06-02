@@ -509,3 +509,5 @@ scope: SESSION_SCOPE_ALL
 [2024-06-03 01:48:55.037] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
 [2024-06-03 01:48:55.183] [global] [info] [git_source_control.cc:477] Computing merge base between e6015cffa8375ed4e61c4d8ac892231afa68099a and 31d028aefd3f49a2783e1e0d4645849f9156b5f6
 [2024-06-03 01:48:55.187] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:48:57.123] [global] [info] [git_source_control.cc:477] Computing merge base between 556b19fbd3dce22518ed5b64601071db1e2dec95 and 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:48:57.130] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
