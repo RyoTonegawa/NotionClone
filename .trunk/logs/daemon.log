@@ -511,3 +511,5 @@ scope: SESSION_SCOPE_ALL
 [2024-06-03 01:48:55.187] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
 [2024-06-03 01:48:57.123] [global] [info] [git_source_control.cc:477] Computing merge base between 556b19fbd3dce22518ed5b64601071db1e2dec95 and 31d028aefd3f49a2783e1e0d4645849f9156b5f6
 [2024-06-03 01:48:57.130] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:48:58.622] [global] [info] [git_source_control.cc:477] Computing merge base between 4e2aeb9badae497f0fce55ed98c86db5290b40e8 and 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:48:58.627] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
