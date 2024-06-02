@@ -1,0 +1,31 @@
+trunk_cli_version: 1.22.1
+title: eslint exited with exit_code=2
+report:
+  - eslint exited with exit_code=2
+  - linter:
+      command: |
+        'C:/Users/81909/AppData/Local/trunk/tools/git-bash/2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin\sh.exe' 'C:\Users\81909\AppData\Local\trunk\tools\eslint\8.57.0-e5361ba8020157f1c3b15a8781ea6d72/node_modules/.bin\eslint' --output-file C:/Users/81909/AppData/Local/Temp/trunk/ykjtcoi/yudgy4w5xS4Q --format json 'app\(marketing)\_components\heading.tsx'
+      stdin_path: (none)
+      run_from: C:\Users\81909\AppData\Local\Temp\trunk\mw1w2bl\xwknjmw\
+      timeout: 10m
+      rerun: (cd C:\Users\81909\AppData\Local\Temp\trunk\mw1w2bl\xwknjmw\; env -i HOME= 'NODE_PATH=C:\Users\81909\AppData\Local\trunk\tools\eslint\8.57.0-e5361ba8020157f1c3b15a8781ea6d72/node_modules' 'PATH=C:/Users/81909/AppData/Local/trunk/tools/git-bash/2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin;C:/Users/81909/AppData/Local/trunk/tools/git-bash/2.40.1-da0c3e1526d36e62bf43d06ec46c5052/usr/bin;C:\Users\81909\AppData\Local\trunk\tools\eslint\8.57.0-e5361ba8020157f1c3b15a8781ea6d72/node_modules/.bin;C:\Users\81909\AppData\Local\trunk\tools\node\18.12.1-ee91e409de31a08a96aaff7f742f83b4/bin;C:\Users\81909\AppData\Local\trunk\tools\node\18.12.1-ee91e409de31a08a96aaff7f742f83b4;C:\Users\81909\AppData\Local\trunk\tools\git-bash\2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin;C:\Users\81909\AppData\Local\trunk\tools\git-bash\2.40.1-da0c3e1526d36e62bf43d06ec46c5052/usr/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-17.0.4.101-hotspot\bin;C:\tools\apache-maven-3.8.6\bin;C:\jdk-18.0.2.1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Amazon\AWSCLIV2\;C:\Users\81909\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\81909\AppData\Local\Programs\Python\Python39\;C:\Users\81909\AppData\Local\Microsoft\WindowsApps;C:\Users\81909\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\81909\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile64\;C:\Program Files (x86)\AOMEI\AOMEI Backupper\7.2.0;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Program Files\Git LFS;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\81909\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\81909\AppData\Local\Programs\Python\Python39\;C:\Users\81909\AppData\Local\Microsoft\WindowsApps;C:\Users\81909\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\MeCab\bin;C:\Users\81909\AppData\Local\GitHubDesktop\bin;C:\Users\81909\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\81909\AppData\Roaming\Composer\vendor\bin;C:\Apache24\php;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\81909\AppData\Roaming\npm;C:\Users\81909\Desktop\wget;' 'C:/Users/81909/AppData/Local/trunk/tools/git-bash/2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin\sh.exe' 'C:\Users\81909\AppData\Local\trunk\tools\eslint\8.57.0-e5361ba8020157f1c3b15a8781ea6d72/node_modules/.bin\eslint' --output-file C:/Users/81909/AppData/Local/Temp/trunk/ykjtcoi/yudgy4w5xS4Q --format json 'app\(marketing)\_components\heading.tsx')
+      affects_cache:
+        - package.json
+        - tsconfig.json
+      direct_configs:
+        - .eslintrc.json
+      exit_status: exited
+      exit_code: 2
+      stdout: (none)
+      stderr: |
+
+        Oops! Something went wrong! :(
+
+        ESLint: 8.57.0
+
+        No files matching the pattern "app(marketing)_componentsheading.tsx" were found.
+        Please check for typing mistakes in the pattern.
+
+
+    parser: |
+      (none)
