@@ -1,534 +1,74 @@
-[2024-06-03 01:44:39.398] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
-[2024-06-03 01:44:39.403] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
-[2024-06-03 01:44:39.405] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
-[2024-06-03 01:44:39.417] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
-[2024-06-03 01:44:39.421] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
-[2024-06-03 01:44:39.425] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
-[2024-06-03 01:44:39.425] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
-[2024-06-03 01:44:39.427] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
-[2024-06-03 01:44:39.434] [global] [info] [service.cc:118] Notifications config has not changed
-[2024-06-03 01:44:39.443] [global] [info] [service.cc:49] Tools config updated; updating tools
-[2024-06-03 01:44:39.455] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:44:39.455] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:44:41.469] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:44:41.470] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:44:46.150] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
-[2024-06-03 01:44:46.156] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
-[2024-06-03 01:44:46.158] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
-[2024-06-03 01:44:46.159] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
-[2024-06-03 01:44:46.160] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
-[2024-06-03 01:44:46.161] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
-[2024-06-03 01:44:46.164] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
-[2024-06-03 01:44:46.174] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
-[2024-06-03 01:44:46.177] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
-[2024-06-03 01:44:46.178] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
-[2024-06-03 01:44:46.180] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
-[2024-06-03 01:44:46.182] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
-[2024-06-03 01:44:46.185] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
-[2024-06-03 01:44:46.192] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
-[2024-06-03 01:44:46.202] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
-[2024-06-03 01:44:46.204] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
-[2024-06-03 01:44:46.207] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
-[2024-06-03 01:44:46.208] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
-[2024-06-03 01:44:46.209] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
-[2024-06-03 01:44:46.212] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
-[2024-06-03 01:44:46.213] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
-[2024-06-03 01:44:46.216] [global] [info] [run.cc:543] Ran command: 'daemon launch' LogLevel:error
-[2024-06-03 01:44:46.317] [global] [info] [runner.cc:39] Created Action Runner
-[2024-06-03 01:44:46.317] [global] [info] [runner.cc:123] Commenced Action Loop
-[2024-06-03 01:44:46.320] [global] [info] [runner.cc:154] Executing action trunk-cache-prune.schedule.24h
-[2024-06-03 01:44:46.321] [global] [info] [runner.cc:154] Executing action trunk-share-with-everyone.schedule.24h
-[2024-06-03 01:44:46.325] [global] [info] [server.cc:106] Starting daemon 1.22.1. LogLevel:2
-[2024-06-03 01:44:46.346] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *)
-[2024-06-03 01:44:46.488] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\svgo\svgo.config.js
-[2024-06-03 01:44:46.489] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
-[2024-06-03 01:44:46.490] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
-[2024-06-03 01:44:46.491] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\cspell\cspell.yaml
-[2024-06-03 01:44:46.491] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\markdownlint\.markdownlint.yaml
-[2024-06-03 01:44:48.195] [global] [info] [notification_manager.cc:37] Writing to C:\demo\NotionClone\.trunk\notifications\trunk-share-with-everyone.yaml
-[2024-06-03 01:44:52.585] [global] [info] [release.cc:138] Retrieved 8 linter-version pairs from ReleaseVersionService
-[2024-06-03 01:44:53.746] [global] [info] [linter.cc:982] Validated version for git-diff-check not provided, or bypassed. Using fallback
-[2024-06-03 01:44:55.957] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *) status=OK
-[2024-06-03 01:44:55.957] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::ApplySpecifiedUpgrades(grpc::ServerContext *, const upgrade::proto::v1::ApplySpecifiedUpgradesRequest *, upgrade::proto::v1::ApplySpecifiedUpgradesResponse *)
-[2024-06-03 01:44:55.962] [global] [info] [service.cc:227] Applying upgrade changes to trunk.yaml
-[2024-06-03 01:44:55.976] [global] [info] [linter_upgrade.cc:349] Detected 2 configs to write
-[2024-06-03 01:44:55.977] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::ApplySpecifiedUpgrades(grpc::ServerContext *, const upgrade::proto::v1::ApplySpecifiedUpgradesRequest *, upgrade::proto::v1::ApplySpecifiedUpgradesResponse *) status=OK
-[2024-06-03 01:44:55.979] [global] [info] [service.cc:152] [user-agent=cli/init sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:44:56.074] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
-[2024-06-03 01:44:56.081] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
-[2024-06-03 01:44:56.084] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
-[2024-06-03 01:44:56.085] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
-[2024-06-03 01:44:56.087] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
-[2024-06-03 01:44:56.089] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
-[2024-06-03 01:44:56.089] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
-[2024-06-03 01:44:56.092] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
-[2024-06-03 01:44:56.095] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
-[2024-06-03 01:44:56.102] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
-[2024-06-03 01:44:56.104] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
-[2024-06-03 01:44:56.105] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
-[2024-06-03 01:44:56.106] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
-[2024-06-03 01:44:56.106] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
-[2024-06-03 01:44:56.110] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
-[2024-06-03 01:44:56.114] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
-[2024-06-03 01:44:56.117] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
-[2024-06-03 01:44:56.118] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
-[2024-06-03 01:44:56.120] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
-[2024-06-03 01:44:56.122] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
-[2024-06-03 01:44:56.125] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
-[2024-06-03 01:44:56.174] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:44:56.175] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:44:56.175] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:44:57.027] [global] [info] [service.cc:118] Notifications config has not changed
-[2024-06-03 01:44:57.034] [global] [info] [service.cc:49] Tools config updated; updating tools
-[2024-06-03 01:44:57.036] [global] [info] [download.cc:256] Downloading https://github.com/trufflesecurity/trufflehog/releases/download/v3.77.0/trufflehog_3.77.0_windows_amd64.tar.gz to C:\Users\81909\AppData\Local\trunk\tools\trufflehog\3.77.0-f23888b0790a9194fddc6f36ba2c1a90
-[2024-06-03 01:44:57.037] [global] [info] [download.cc:256] Downloading https://github.com/google/osv-scanner/releases/download/v1.7.4/osv-scanner_windows_amd64.exe to C:\Users\81909\AppData\Local\trunk\tools\osv-scanner\1.7.4-8a60135bbc4d37863b36b65e36aee883
-[2024-06-03 01:45:05.055] [global] [info] [downloader.cc:246] Failed to remove trunk_download at C:\Users\81909\AppData\Local\trunk\tools\trufflehog\3.77.0-f23888b0790a9194fddc6f36ba2c1a90 with error Permission denied
-[2024-06-03 01:45:07.105] [global] [info] [service.cc:227] [user-agent=cli/init sid=n/a] lint session created sid=1 with the following options:
-format_only: true
-cache_enabled: true
-force: true
-num_jobs: 8
-session_type: SESSION_TYPE_CLI
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:07.317] [global] [info] [service.cc:152] [user-agent=cli/init sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:07.317] [global] [info] [service.cc:406] [user-agent=cli/init sid=1] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:07.323] [global] [info] [service.cc:406] [user-agent=cli/init sid=1] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:07.324] [global] [info] [service.cc:504] [user-agent=cli/init sid=1] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
-[2024-06-03 01:45:07.344] [global] [info] [cache.cc:972] [on-demand] [prettier:format:.trunk\configs\.markdownlint.yaml:HEAD] not cacheable, running linter
-[2024-06-03 01:45:07.344] [global] [info] [cache.cc:972] [on-demand] [prettier:format:.trunk\configs\svgo.config.js:HEAD] not cacheable, running linter
-[2024-06-03 01:45:07.344] [global] [info] [cache.cc:972] [on-demand] [prettier:format:.trunk\trunk.yaml:HEAD] not cacheable, running linter
-[2024-06-03 01:45:08.151] [global] [info] [service.cc:504] [user-agent=cli/init sid=1] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
-[2024-06-03 01:45:08.151] [global] [info] [service.cc:583] [user-agent=cli/init sid=1] RX:virtual grpc::Status trunk::cli::lint::Service::GetCurrentDiagnostic(grpc::ServerContext *, const proto::v1::GetCurrentDiagnosticRequest *, proto::v1::GetCurrentDiagnosticResponse *)
-[2024-06-03 01:45:08.151] [global] [info] [service.cc:583] [user-agent=cli/init sid=1] TX:virtual grpc::Status trunk::cli::lint::Service::GetCurrentDiagnostic(grpc::ServerContext *, const proto::v1::GetCurrentDiagnosticRequest *, proto::v1::GetCurrentDiagnosticResponse *) status=OK
-[2024-06-03 01:45:08.152] [global] [info] [service.cc:583] [user-agent=cli/init sid=1] RX:virtual grpc::Status trunk::cli::lint::Service::GetCurrentDiagnostic(grpc::ServerContext *, const proto::v1::GetCurrentDiagnosticRequest *, proto::v1::GetCurrentDiagnosticResponse *)
-[2024-06-03 01:45:08.152] [global] [info] [service.cc:583] [user-agent=cli/init sid=1] TX:virtual grpc::Status trunk::cli::lint::Service::GetCurrentDiagnostic(grpc::ServerContext *, const proto::v1::GetCurrentDiagnosticRequest *, proto::v1::GetCurrentDiagnosticResponse *) status=OK
-[2024-06-03 01:45:08.152] [global] [info] [service.cc:253] lint session ended sid=1
-[2024-06-03 01:45:08.152] [global] [info] [service.cc:255] [user-agent=cli/init sid=1] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:45:08.154] [global] [info] [service.cc:255] [user-agent=cli/init sid=1] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:45:08.154] [global] [info] [service.cc:322] [user-agent=cli/init sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:45:08.551] [global] [info] [service.cc:322] [user-agent=cli/init sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:45:09.012] [global] [info] [service.cc:313] [user-agent=cli/init sid=1] TrackCheckUsageEvent upload ok: true with code: ok
-[2024-06-03 01:45:13.220] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:13.263] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:13.264] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:13.264] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:16.656] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=2 with the following options:
+[2024-06-03 01:46:25.301] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2024-06-03 01:46:25.471] [global] [info] [git_source_control.cc:477] Computing merge base between 876573792da8e79e1f19bddc78d5fea285eaad5d and 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:25.478] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:25.478] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:25.478] [global] [info] [git_source_control.cc:477] Computing merge base between 876573792da8e79e1f19bddc78d5fea285eaad5d and 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:25.479] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:25.479] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:25.518] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
+[2024-06-03 01:46:25.519] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=16] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2024-06-03 01:46:25.528] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=16] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2024-06-03 01:46:29.867] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=18 with the following options:
 cache_enabled: true
 num_jobs: 8
 session_type: SESSION_TYPE_LSP
 client_id: "lsp-proxy"
 scope: SESSION_SCOPE_ALL
 
-[2024-06-03 01:45:16.860] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:16.860] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:16.905] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:16.905] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:16.905] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:20.123] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=3 with the following options:
+[2024-06-03 01:46:30.072] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2024-06-03 01:46:30.073] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
+[2024-06-03 01:46:30.073] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
+[2024-06-03 01:46:30.084] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
+[2024-06-03 01:46:30.084] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
+[2024-06-03 01:46:30.088] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
+[2024-06-03 01:46:30.088] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
+[2024-06-03 01:46:30.094] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
+[2024-06-03 01:46:30.095] [global] [info] [service.cc:504] [user-agent= sid=15] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
+[2024-06-03 01:46:30.096] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
+[2024-06-03 01:46:30.098] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2024-06-03 01:46:30.099] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
+[2024-06-03 01:46:30.099] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
+[2024-06-03 01:46:30.102] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
+[2024-06-03 01:46:30.102] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
+[2024-06-03 01:46:30.105] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
+[2024-06-03 01:46:30.105] [global] [info] [cache.cc:930] [on-demand] [trufflehog:lint:.gitignore:upstream] already cached, not running linter
+[2024-06-03 01:46:30.106] [global] [info] [service.cc:504] [user-agent= sid=16] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
+[2024-06-03 01:46:30.129] [global] [info] [git_source_control.cc:477] Computing merge base between 876573792da8e79e1f19bddc78d5fea285eaad5d and 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:30.130] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:30.130] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:30.153] [global] [info] [git_source_control.cc:477] Computing merge base between 876573792da8e79e1f19bddc78d5fea285eaad5d and 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:30.154] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:30.154] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:30.307] [global] [info] [service.cc:504] [user-agent= sid=16] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2024-06-03 01:46:30.308] [global] [info] [service.cc:561] [user-agent=lsp-proxy sid=16] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2024-06-03 01:46:30.309] [global] [info] [service.cc:561] [user-agent=lsp-proxy sid=16] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2024-06-03 01:46:30.310] [global] [info] [service.cc:253] lint session ended sid=16
+[2024-06-03 01:46:30.310] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=16] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-06-03 01:46:30.312] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=16] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-06-03 01:46:30.312] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-06-03 01:46:30.322] [global] [info] [service.cc:504] [user-agent= sid=15] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2024-06-03 01:46:30.323] [global] [info] [service.cc:561] [user-agent=lsp-proxy sid=15] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2024-06-03 01:46:30.365] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
+[2024-06-03 01:46:30.366] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=17] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2024-06-03 01:46:30.466] [global] [info] [service.cc:313] [user-agent=lsp-proxy sid=16] TrackCheckUsageEvent upload ok: true with code: ok
+[2024-06-03 01:46:30.843] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-06-03 01:46:30.867] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=17] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2024-06-03 01:46:30.870] [global] [info] [service.cc:561] [user-agent=lsp-proxy sid=15] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2024-06-03 01:46:34.196] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=19 with the following options:
 cache_enabled: true
 num_jobs: 8
 session_type: SESSION_TYPE_LSP
 client_id: "lsp-proxy"
 scope: SESSION_SCOPE_ALL
 
-[2024-06-03 01:45:20.330] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:22.652] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:22.704] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:22.705] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:22.705] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:26.158] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=4 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:26.356] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:26.357] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:26.401] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:26.402] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:26.402] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:29.615] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=5 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:29.817] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:29.818] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::actions::Service::GetNotificationsStream(grpc::ServerContext *, const proto::v1::GetNotificationsStreamRequest *, grpc::ServerWriter<proto::v1::GetNotificationsStreamResponse> *)
-[2024-06-03 01:45:29.818] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:29.818] [global] [info] [notification_manager.cc:84] Reading from C:\demo\NotionClone\.trunk\notifications\trunk-share-with-everyone.yaml
-[2024-06-03 01:45:29.819] [global] [info] [service.cc:162] Writing notification state to file
-[2024-06-03 01:45:29.860] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:29.861] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:29.861] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:32.861] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=6 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:33.061] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:33.062] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
-[2024-06-03 01:45:33.062] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:33.103] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:33.103] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:33.103] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:33.116] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:33.116] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:33.116] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:37.143] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=7 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:37.355] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:37.355] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
-[2024-06-03 01:45:37.355] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:37.404] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:37.405] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:37.405] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:37.405] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:37.406] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:37.406] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:37.577] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
-[2024-06-03 01:45:37.577] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=6] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:37.577] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=6] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:37.577] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=6] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:37.579] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=6] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:37.579] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:45:37.581] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:45:41.370] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=8 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:41.569] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:41.570] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *)
-[2024-06-03 01:45:41.570] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:41.572] [global] [info] [cli_upgrade.cc:85] Checking for latest trunk prod version...
-[2024-06-03 01:45:41.574] [global] [info] [plugin_upgrade.cc:71] Querying latest version for plugin trunk
-[2024-06-03 01:45:41.618] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:41.619] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:41.619] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:41.657] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\cspell\cspell.yaml
-[2024-06-03 01:45:41.661] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
-[2024-06-03 01:45:41.661] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
-[2024-06-03 01:45:41.760] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
-[2024-06-03 01:45:41.760] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=7] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:41.760] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=7] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:41.760] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=7] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:41.762] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=7] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:42.482] [global] [info] [cli_upgrade.cc:92] Successfully fetched latest trunk 1.22.1 version: prod
-[2024-06-03 01:45:42.487] [global] [info] [release.cc:138] Retrieved 7 linter-version pairs from ReleaseVersionService
-[2024-06-03 01:45:44.981] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=9 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:45.179] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:45.180] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=9] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:45.180] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:45.188] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=9] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:45.188] [global] [info] [service.cc:369] [user-agent=lsp-proxy sid=9] RX:virtual grpc::Status trunk::cli::lint::Service::CheckList(grpc::ServerContext *, const proto::v1::CheckListRequest *, proto::v1::CheckListResponse *)
-[2024-06-03 01:45:45.232] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:45.232] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:45.232] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:45.482] [global] [info] [service.cc:369] [user-agent=lsp-proxy sid=9] TX:virtual grpc::Status trunk::cli::lint::Service::CheckList(grpc::ServerContext *, const proto::v1::CheckListRequest *, proto::v1::CheckListResponse *) status=OK
-[2024-06-03 01:45:45.483] [global] [info] [service.cc:253] lint session ended sid=9
-[2024-06-03 01:45:45.483] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=9] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:45:45.484] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=9] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:45:45.484] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:45:46.036] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:45:48.603] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=10 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:48.795] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:48.795] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
-[2024-06-03 01:45:48.795] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:48.795] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:45:48.798] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:45:48.839] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:48.840] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:48.840] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:48.857] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:48.858] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:48.858] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:53.226] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=11 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:53.428] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:53.428] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
-[2024-06-03 01:45:53.428] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:53.429] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:45:53.446] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:45:53.512] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:53.513] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:53.513] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:53.536] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:53.536] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:53.536] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:53.899] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
-[2024-06-03 01:45:53.899] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=10] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:53.899] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=10] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:53.900] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=10] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:53.902] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=10] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:54.158] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *) status=OK
-[2024-06-03 01:45:54.159] [global] [info] [service.cc:253] lint session ended sid=8
-[2024-06-03 01:45:54.159] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=8] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:45:54.161] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=8] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:45:54.161] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:45:54.866] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:45:58.031] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=12 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:45:58.221] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:45:58.222] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
-[2024-06-03 01:45:58.222] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:45:58.222] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:45:58.226] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:45:58.274] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:58.274] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:58.274] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:58.290] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:58.290] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:58.290] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:45:58.405] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
-[2024-06-03 01:45:58.405] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=11] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:58.405] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=11] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:45:58.406] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=11] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:45:58.407] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=11] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:46:02.752] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=13 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:46:02.959] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:46:02.960] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
-[2024-06-03 01:46:02.960] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:02.960] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:46:02.963] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:02.964] [global] [info] [service.cc:504] [user-agent= sid=6] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
-[2024-06-03 01:46:02.964] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:02.967] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:02.968] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:02.970] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:02.970] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:02.972] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:02.973] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:02.974] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:.gitignore:upstream] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:02.974] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:02.975] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:02.977] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:03.010] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:03.010] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:03.010] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:03.024] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:03.025] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:03.025] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:03.305] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
-[2024-06-03 01:46:03.306] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=12] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:46:03.398] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=12] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:46:07.391] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=14 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:46:07.596] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:46:07.596] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=14] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
-[2024-06-03 01:46:07.597] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:46:07.613] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=14] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
-[2024-06-03 01:46:07.614] [global] [info] [service.cc:504] [user-agent= sid=14] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
-[2024-06-03 01:46:07.694] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:07.695] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:07.695] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:.eslintrc.json:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:.gitignore:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:README.md:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:app\favicon.ico:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:app\globals.css:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:app\layout.tsx:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:app\page.tsx:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:next.config.mjs:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:package.json:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:postcss.config.mjs:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.768] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:public\next.svg:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:public\vercel.svg:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:tailwind.config.ts:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:tsconfig.json:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:.eslintrc.json:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:.gitignore:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:README.md:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:app\favicon.ico:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:app\globals.css:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:app\layout.tsx:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.769] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:app\page.tsx:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.770] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:next.config.mjs:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.770] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:package.json:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.770] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:postcss.config.mjs:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.770] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:public\next.svg:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.770] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:public\vercel.svg:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.770] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:tailwind.config.ts:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.770] [global] [info] [cache.cc:972] [on-demand] [git-diff-check:lint:tsconfig.json:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.778] [global] [info] [cache.cc:972] [on-demand] [osv-scanner:scan:package-lock.json:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.794] [global] [info] [cache.cc:930] [on-demand] [markdownlint:lint:README.md:HEAD] already cached, not running linter
-[2024-06-03 01:46:07.810] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:.eslintrc.json:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.810] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:.gitignore:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.811] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:README.md:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.811] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:app\favicon.ico:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.811] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:app\globals.css:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.811] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:app\layout.tsx:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.811] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:app\page.tsx:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.811] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:next.config.mjs:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.811] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:package-lock.json:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.811] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:package.json:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.812] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:postcss.config.mjs:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.812] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:public\next.svg:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.812] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:public\vercel.svg:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.812] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:tailwind.config.ts:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.812] [global] [info] [cache.cc:968] [on-demand] [trufflehog:lint:tsconfig.json:HEAD] is cacheable, but can not be found, running linter
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:.eslintrc.json:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:.gitignore:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:README.md:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:app\favicon.ico:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:app\globals.css:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:app\layout.tsx:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:app\page.tsx:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:972] [on-demand] [osv-scanner:scan:package-lock.json:upstream] not cacheable, running linter
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:next.config.mjs:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:package-lock.json:upstream] already in progress, waiting
-[2024-06-03 01:46:07.814] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:package.json:upstream] already in progress, waiting
-[2024-06-03 01:46:07.815] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:postcss.config.mjs:upstream] already in progress, waiting
-[2024-06-03 01:46:07.815] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:public\next.svg:upstream] already in progress, waiting
-[2024-06-03 01:46:07.815] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:public\vercel.svg:upstream] already in progress, waiting
-[2024-06-03 01:46:07.815] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:tailwind.config.ts:upstream] already in progress, waiting
-[2024-06-03 01:46:07.815] [global] [info] [cache.cc:954] [on-demand] [trufflehog:lint:tsconfig.json:upstream] already in progress, waiting
-[2024-06-03 01:46:07.938] [global] [info] [cache.cc:930] [on-demand] [markdownlint:lint:README.md:upstream] already cached, not running linter
-[2024-06-03 01:46:07.956] [global] [info] [cache.cc:972] [on-demand] [svgo:fmt:public\next.svg:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.956] [global] [info] [cache.cc:972] [on-demand] [svgo:fmt:public\vercel.svg:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.960] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:app\layout.tsx:HEAD] not cacheable, running linter
-[2024-06-03 01:46:07.960] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:app\page.tsx:HEAD] not cacheable, running linter
-[2024-06-03 01:46:08.040] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
-[2024-06-03 01:46:08.057] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:app\layout.tsx:upstream] not cacheable, running linter
-[2024-06-03 01:46:08.057] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:app\page.tsx:upstream] not cacheable, running linter
-[2024-06-03 01:46:08.249] [global] [info] [service.cc:504] [user-agent= sid=6] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
-[2024-06-03 01:46:08.249] [global] [info] [service.cc:561] [user-agent=lsp-proxy sid=6] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
-[2024-06-03 01:46:08.252] [global] [info] [service.cc:561] [user-agent=lsp-proxy sid=6] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
-[2024-06-03 01:46:09.160] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:next.config.mjs:HEAD] not cacheable, running linter
-[2024-06-03 01:46:09.160] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:postcss.config.mjs:HEAD] not cacheable, running linter
-[2024-06-03 01:46:11.643] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=15 with the following options:
-cache_enabled: true
-num_jobs: 8
-session_type: SESSION_TYPE_LSP
-client_id: "lsp-proxy"
-scope: SESSION_SCOPE_ALL
-
-[2024-06-03 01:46:11.845] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
-[2024-06-03 01:46:11.845] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
-[2024-06-03 01:46:11.846] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.849] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.850] [global] [info] [service.cc:504] [user-agent= sid=7] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
-[2024-06-03 01:46:11.850] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.853] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.854] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.856] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.857] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.859] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.860] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.863] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.863] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.866] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.866] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.868] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.869] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.869] [global] [info] [service.cc:504] [user-agent= sid=10] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
-[2024-06-03 01:46:11.872] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.873] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.875] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.875] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.877] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.878] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.880] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.880] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.882] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.882] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.885] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.885] [global] [info] [service.cc:504] [user-agent= sid=11] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
-[2024-06-03 01:46:11.886] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.895] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.895] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.902] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.903] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.904] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:11.905] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:11.905] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:11.925] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.926] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.932] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.932] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.940] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.941] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
-[2024-06-03 01:46:11.944] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:next.config.mjs:upstream] not cacheable, running linter
-[2024-06-03 01:46:11.944] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:postcss.config.mjs:upstream] not cacheable, running linter
-[2024-06-03 01:46:11.949] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
-[2024-06-03 01:46:11.949] [global] [info] [service.cc:253] lint session ended sid=13
-[2024-06-03 01:46:11.949] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=13] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:46:11.949] [global] [info] [service.cc:253] lint session ended sid=6
-[2024-06-03 01:46:11.949] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=6] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:46:11.950] [global] [info] [service.cc:504] [user-agent= sid=12] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
-[2024-06-03 01:46:11.950] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=13] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:46:11.951] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:46:11.953] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=6] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:46:11.953] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:46:12.092] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:tailwind.config.ts:HEAD] not cacheable, running linter
-[2024-06-03 01:46:12.103] [global] [info] [service.cc:313] [user-agent=lsp-proxy sid=6] TrackCheckUsageEvent upload ok: true with code: ok
-[2024-06-03 01:46:12.510] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:46:13.146] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:46:13.244] [global] [info] [cache.cc:972] [on-demand] [eslint:lint:tailwind.config.ts:upstream] not cacheable, running linter
-[2024-06-03 01:46:13.250] [global] [info] [cache.cc:972] [on-demand] [prettier:format:.eslintrc.json:HEAD] not cacheable, running linter
-[2024-06-03 01:46:13.250] [global] [info] [cache.cc:972] [on-demand] [prettier:format:package.json:HEAD] not cacheable, running linter
-[2024-06-03 01:46:13.250] [global] [info] [cache.cc:972] [on-demand] [prettier:format:tsconfig.json:HEAD] not cacheable, running linter
-[2024-06-03 01:46:13.336] [global] [info] [cache.cc:972] [on-demand] [prettier:format:README.md:HEAD] not cacheable, running linter
-[2024-06-03 01:46:13.601] [global] [info] [cache.cc:972] [on-demand] [prettier:format:app\globals.css:HEAD] not cacheable, running linter
-[2024-06-03 01:46:14.214] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
-[2024-06-03 01:46:14.289] [global] [info] [git_source_control.cc:477] Computing merge base between cacb7496ce967f7ff587328ac61c20d350891fa0 and 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:14.290] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:14.290] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
-[2024-06-03 01:46:14.580] [global] [info] [cache.cc:972] [on-demand] [prettier:format:app\layout.tsx:HEAD] not cacheable, running linter
-[2024-06-03 01:46:14.581] [global] [info] [cache.cc:972] [on-demand] [prettier:format:app\page.tsx:HEAD] not cacheable, running linter
-[2024-06-03 01:46:14.750] [global] [info] [cache.cc:972] [on-demand] [prettier:format:next.config.mjs:HEAD] not cacheable, running linter
-[2024-06-03 01:46:14.750] [global] [info] [cache.cc:972] [on-demand] [prettier:format:postcss.config.mjs:HEAD] not cacheable, running linter
-[2024-06-03 01:46:14.966] [global] [info] [cache.cc:972] [on-demand] [prettier:format:tailwind.config.ts:HEAD] not cacheable, running linter
-[2024-06-03 01:46:15.697] [global] [info] [service.cc:504] [user-agent= sid=12] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
-[2024-06-03 01:46:15.698] [global] [info] [service.cc:561] [user-agent=lsp-proxy sid=12] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
-[2024-06-03 01:46:15.700] [global] [info] [service.cc:561] [user-agent=lsp-proxy sid=12] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
-[2024-06-03 01:46:15.704] [global] [info] [service.cc:253] lint session ended sid=12
-[2024-06-03 01:46:15.704] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=12] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:46:15.710] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=12] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
-[2024-06-03 01:46:15.710] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
-[2024-06-03 01:46:15.721] [global] [error] [tool.cc:105] Error encountered while renaming tool shim C:\Users\81909\AppData\Local\trunk\repos\18bae89177e8673ba2e2185a03afaff8\tools\trufflehog-tAZxO to C:\Users\81909\AppData\Local\trunk\repos\18bae89177e8673ba2e2185a03afaff8\tools\trufflehog.bat: Permission denied
+[2024-06-03 01:46:34.407] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2024-06-03 01:46:34.408] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
+[2024-06-03 01:46:34.408] [global] [info] [service.cc:332] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
+[2024-06-03 01:46:34.408] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2024-06-03 01:46:34.414] [global] [info] [service.cc:332] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
+[2024-06-03 01:46:34.458] [global] [info] [git_source_control.cc:477] Computing merge base between 876573792da8e79e1f19bddc78d5fea285eaad5d and 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:34.459] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:34.459] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:34.474] [global] [info] [git_source_control.cc:477] Computing merge base between 876573792da8e79e1f19bddc78d5fea285eaad5d and 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:34.475] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 4db9e55a8977670449a8398cc7b6b3b0716694be
+[2024-06-03 01:46:34.475] [global] [info] [session_context.cc:161] Making commit info with id: 4db9e55a8977670449a8398cc7b6b3b0716694be
