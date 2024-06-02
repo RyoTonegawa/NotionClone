@@ -8,6 +8,7 @@
 /.trunk/
 /.trunk/tools
 /.trunk/logs
+.trunk/
 # testing
 /coverage
 
