@@ -103,3 +103,5 @@ scope: SESSION_SCOPE_ALL
 [2024-06-03 01:51:39.918] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
 [2024-06-03 01:51:39.918] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\cspell\cspell.yaml
 [2024-06-03 01:51:39.920] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
+[2024-06-03 01:51:40.738] [global] [info] [release.cc:138] Retrieved 7 linter-version pairs from ReleaseVersionService
+[2024-06-03 01:51:40.741] [global] [info] [cli_upgrade.cc:92] Successfully fetched latest trunk 1.22.1 version: prod
