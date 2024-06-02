@@ -111,3 +111,59 @@ scope: SESSION_SCOPE_ALL
 [2024-06-03 01:50:17.894] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\cspell\cspell.yaml
 [2024-06-03 01:50:17.896] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
 [2024-06-03 01:50:17.897] [global] [info] [linter.cc:1675] Found config in plugin repo at C:\Users\81909\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.5.0-4ebadccd80b22638\linters\remark-lint\.remarkrc.yaml
+[2024-06-03 01:50:18.159] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
+[2024-06-03 01:50:18.165] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=37] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2024-06-03 01:50:18.168] [global] [info] [service.cc:406] [user-agent=lsp-proxy sid=37] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2024-06-03 01:50:18.366] [global] [info] [git_source_control.cc:477] Computing merge base between dbff9fc2246ec56b469e52b3bd05582868284682 and 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:18.367] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:18.438] [global] [info] [cache.cc:954] [monitor] [trufflehog:lint:.gitignore:HEAD] already in progress, waiting
+[2024-06-03 01:50:18.544] [global] [info] [auto_delete_dir.cc:25] Error cleaning up auto delete directory: C:\Users\81909\AppData\Local\Temp\trunk\a35inrm, message: Permission denied
+[2024-06-03 01:50:18.544] [global] [info] [auto_delete_dir.cc:25] Error cleaning up auto delete directory: C:\Users\81909\AppData\Local\Temp\trunk\a35inrm, message: Permission denied
+[2024-06-03 01:50:18.544] [global] [info] [auto_delete_dir.cc:25] Error cleaning up auto delete directory: C:\Users\81909\AppData\Local\Temp\trunk\a35inrm, message: Permission denied
+[2024-06-03 01:50:18.696] [global] [info] [cli_upgrade.cc:92] Successfully fetched latest trunk 1.22.1 version: prod
+[2024-06-03 01:50:20.073] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *) status=OK
+[2024-06-03 01:50:20.077] [global] [info] [grpc.cc:24] RX:virtual grpc::Status trunk::cli::UpgradeService::ApplySpecifiedUpgrades(grpc::ServerContext *, const upgrade::proto::v1::ApplySpecifiedUpgradesRequest *, upgrade::proto::v1::ApplySpecifiedUpgradesResponse *)
+[2024-06-03 01:50:20.078] [global] [info] [service.cc:227] Applying upgrade changes to trunk.yaml
+[2024-06-03 01:50:20.079] [global] [info] [linter_upgrade.cc:349] Detected 0 configs to write
+[2024-06-03 01:50:20.079] [global] [info] [grpc.cc:29] TX:virtual grpc::Status trunk::cli::UpgradeService::ApplySpecifiedUpgrades(grpc::ServerContext *, const upgrade::proto::v1::ApplySpecifiedUpgradesRequest *, upgrade::proto::v1::ApplySpecifiedUpgradesResponse *) status=OK
+[2024-06-03 01:50:21.525] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'trunk-toolbox' has no matching download for current os/cpu @ version:0.3.1
+[2024-06-03 01:50:21.528] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'air' has no matching download for current os/cpu @ version:1.44.0
+[2024-06-03 01:50:21.531] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'include-what-you-use' has no matching download for current os/cpu @ version:0.20
+[2024-06-03 01:50:21.532] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'kubectl' has no matching download for current os/cpu @ version:1.25.16
+[2024-06-03 01:50:21.534] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'adr' has no matching download for current os/cpu @ version:3.0.0
+[2024-06-03 01:50:21.536] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'yarn' has no matching download for current os/cpu @ version:1.22.19
+[2024-06-03 01:50:21.539] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'stringslint' has no matching download for current os/cpu @ version:0.1.1
+[2024-06-03 01:50:21.549] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'act' has no matching download for current os/cpu @ version:0.2.49
+[2024-06-03 01:50:21.562] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-format' has no matching download for current os/cpu @ version:14.0.1
+[2024-06-03 01:50:21.563] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'shellcheck' has no matching download for current os/cpu @ version:0.8.0
+[2024-06-03 01:50:21.571] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftformat' has no matching download for current os/cpu @ version:0.50.0
+[2024-06-03 01:50:21.589] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'direnv' has no matching download for current os/cpu @ version:2.32.3
+[2024-06-03 01:50:21.603] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfmigrate' has no matching download for current os/cpu @ version:0.3.14
+[2024-06-03 01:50:21.611] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'tfnotify' has no matching download for current os/cpu @ version:0.8.0
+[2024-06-03 01:50:21.612] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'amazon-ecr-credential-helper' has no matching download for current os/cpu @ version:0.7.0
+[2024-06-03 01:50:21.615] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'action-validator' has no matching download for current os/cpu @ version:0.5.3
+[2024-06-03 01:50:21.619] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'swiftlint' has no matching download for current os/cpu @ version:0.49.1
+[2024-06-03 01:50:21.621] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'scalafmt' has no matching download for current os/cpu @ version:3.4.3
+[2024-06-03 01:50:21.623] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'istioctl' has no matching download for current os/cpu @ version:1.14.6
+[2024-06-03 01:50:21.626] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'assh' has no matching download for current os/cpu @ version:2.10.0
+[2024-06-03 01:50:21.635] [global] [info] [download_tool.hh:32] Failed to create download for tool  with error 'clang-tidy' has no matching download for current os/cpu @ version:16.0.3
+[2024-06-03 01:50:21.640] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=39 with the following options:
+cache_enabled: true
+num_jobs: 8
+session_type: SESSION_TYPE_LSP
+client_id: "lsp-proxy"
+scope: SESSION_SCOPE_ALL
+
+[2024-06-03 01:50:21.642] [global] [info] [service.cc:118] Notifications config has not changed
+[2024-06-03 01:50:21.659] [global] [info] [git_source_control.cc:477] Computing merge base between 406b8f4b03077e38a9b54d0a165db4c61dfc744c and 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:21.665] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:21.741] [global] [info] [cache.cc:968] [monitor] [trufflehog:lint:.gitignore:HEAD] is cacheable, but can not be found, running linter
+[2024-06-03 01:50:21.799] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2024-06-03 01:50:21.799] [global] [info] [service.cc:436] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
+[2024-06-03 01:50:21.800] [global] [info] [service.cc:152] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2024-06-03 01:50:21.849] [global] [info] [git_source_control.cc:477] Computing merge base between 406b8f4b03077e38a9b54d0a165db4c61dfc744c and 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:21.850] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:21.850] [global] [info] [session_context.cc:161] Making commit info with id: 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:21.851] [global] [info] [git_source_control.cc:477] Computing merge base between 406b8f4b03077e38a9b54d0a165db4c61dfc744c and 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:21.852] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 31d028aefd3f49a2783e1e0d4645849f9156b5f6
+[2024-06-03 01:50:21.852] [global] [info] [session_context.cc:161] Making commit info with id: 31d028aefd3f49a2783e1e0d4645849f9156b5f6
