@@ -13,7 +13,15 @@ const Logo = () => {
             src="/next.svg"
             height="40"
             width="40"
-            alt="plactice App Logo"    
+            alt="plactice App Logo"
+            className="dark:hidden"
+        />
+        <Image
+            src="/next_dark.png"
+            height="40"
+            width="40"
+            alt="plactice App Logo"
+            className="hidden dark:block"
         />
     </div> );
 }
