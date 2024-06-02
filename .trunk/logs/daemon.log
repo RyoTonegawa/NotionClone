@@ -443,3 +443,27 @@ scope: SESSION_SCOPE_ALL
 [2024-06-03 01:37:13.699] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
 [2024-06-03 01:37:13.700] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
 [2024-06-03 01:37:13.700] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:35.938] [global] [info] [git_source_control.cc:477] Computing merge base between 80a85d6086d625623be7e583e1f4ffa7aedc55c3 and 80a85d6086d625623be7e583e1f4ffa7aedc55c3
+[2024-06-03 01:37:35.938] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 80a85d6086d625623be7e583e1f4ffa7aedc55c3
+[2024-06-03 01:37:36.364] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:36.364] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:36.365] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:36.366] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:36.538] [global] [info] [service.cc:253] lint session ended sid=2
+[2024-06-03 01:37:36.538] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=2] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-06-03 01:37:36.538] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:36.539] [global] [info] [service.cc:255] [user-agent=lsp-proxy sid=2] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-06-03 01:37:36.539] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2024-06-03 01:37:36.547] [global] [info] [service.cc:322] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2024-06-03 01:37:41.944] [global] [info] [git_source_control.cc:477] Computing merge base between 80a85d6086d625623be7e583e1f4ffa7aedc55c3 and 80a85d6086d625623be7e583e1f4ffa7aedc55c3
+[2024-06-03 01:37:41.945] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 80a85d6086d625623be7e583e1f4ffa7aedc55c3
+[2024-06-03 01:37:41.946] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:41.946] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:41.947] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:41.947] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:42.972] [global] [info] [git_source_control.cc:477] Computing merge base between b38be5d34af2195ff0830c0acdba95d0f6061637 and 80a85d6086d625623be7e583e1f4ffa7aedc55c3
+[2024-06-03 01:37:42.976] [global] [info] [git_source_control.cc:479] Resolved divergent commit as 80a85d6086d625623be7e583e1f4ffa7aedc55c3
+[2024-06-03 01:37:42.977] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:42.978] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:42.978] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
+[2024-06-03 01:37:42.979] [global] [info] [app_context.cc:408] TryGetTrunkConfigPb failed
