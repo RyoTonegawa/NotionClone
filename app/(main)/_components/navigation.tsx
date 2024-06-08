@@ -5,6 +5,7 @@ import { ChevronsLeft, MenuIcon } from "lucide-react";
 import { usePathname } from "next/navigation";
 import { ElementRef, useEffect, useRef, useState } from "react";
 import {useMediaQuery} from "usehooks-ts";
+import UserItem from "./useritem";
 const Navigation = () => {
   const pathname = usePathname();
   const isMobile = useMediaQuery("(max-width: 768px)");
@@ -40,9 +41,9 @@ const Navigation = () => {
     document.addEventListener("mouseup",handleMouseUp);
 
   };
-  const handleMouseMove=(evenet:MouseEvent)=>{
+  const handleMouseMove=(event:MouseEvent)=>{
     if(!isResizingRef.current) return;
-    let newWidth = evenet.clientX;
+    let newWidth = event.clientX;
     // 最大最小の幅の制限
     if(newWidth <240) newWidth =240;
     if(newWidth >480) newWidth =480;
@@ -55,11 +56,12 @@ const Navigation = () => {
     }
   }
 
-  const handleMouseUp=(evenet:MouseEvent)=>{
+  const handleMouseUp=()=>{
       isResizingRef.current =false;
       document.removeEventListener("mousemove",handleMouseMove);
       document.removeEventListener("mouseup",handleMouseUp);
-    }
+  }
+
   const resetWidth=()=>{
     if(sidebarRef.current&&navbarRef.current){
       setIsCollapsed(false);
@@ -101,7 +103,7 @@ const Navigation = () => {
         isMobile && "w-0"
       )}>
         <div 
-        onClick={collapse}
+          onClick={collapse}
           role="button"
           className={cn("h-6 w-6 text-muted-foreground rounded-sm hover:bg-neutral-300 dark:hover:bg-neutral-600 absolute top-3 right-2 opacity-0 group-hover/sidebar:opacity-100 transition",
           isMobile && "opacity-100"
@@ -109,11 +111,12 @@ const Navigation = () => {
           <ChevronsLeft className="h-6 w-6"/>
         </div>
         <div>
-          <p>Action items</p>
+          <UserItem></UserItem>
         </div>
         <div className="mt-4">
           <p>Documents</p>
         </div>
+        {/* sidebar shadow */}
         <div 
         onMouseDown={handleMouseDown}
         onClick={resetWidth}
