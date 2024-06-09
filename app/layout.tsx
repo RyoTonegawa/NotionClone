@@ -38,7 +38,7 @@ export default function RootLayout({
         disableTransitionOnChange
         storageKey="jotion-theme-2"
         >
-        <Toaster position="bottom-center"/>
+        <Toaster position="bottom-right"/>
         {children}
         </ThemeProvider>
         </ConvexClientProvider>
