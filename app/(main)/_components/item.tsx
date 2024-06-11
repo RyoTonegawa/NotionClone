@@ -76,9 +76,8 @@ export const Item=({
         <span
           className="text-xs"
         >
-          ctrl
+          Ctrl + K
         </span>
-         k
       </kbd>
     )}
   </div>
