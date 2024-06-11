@@ -31,16 +31,16 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
         <ConvexClientProvider>
-        <ThemeProvider
-        attribute="class"
-        defaultTheme="system"
-        enableSystem
-        disableTransitionOnChange
-        storageKey="jotion-theme-2"
-        >
-        <Toaster position="bottom-right"/>
-        {children}
-        </ThemeProvider>
+          <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+          storageKey="jotion-theme-2"
+          >
+            <Toaster position="bottom-right"/>
+            {children}
+          </ThemeProvider>
         </ConvexClientProvider>
       </body>
     </html>
