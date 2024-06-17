@@ -32,7 +32,7 @@ interface ItemProps {
   level?: number;
   onExpand?: () => void;
   label: string;
-  onClick: () => void;
+  onClick?: () => void;
   icon: LucideIcon;
 }
 
@@ -144,18 +144,20 @@ export const Item = ({
               className="w-60"
               align="start"
               side="right"
-              forceMount
+              // forceMount
             >
               <DropdownMenuItem onClick={onArchive}>
                 <Trash className="h-4 w-4 mr-2" />
                 Delete
               </DropdownMenuItem>
+
               <DropdownMenuSeparator />
               <div className="text-xs text-muted-foreground p-2">
                 Last edited by: {user?.fullName}
               </div>
             </DropdownMenuContent>
           </DropdownMenu>
+
           <div
             role="button"
             onClick={onCreate}
@@ -169,7 +171,7 @@ export const Item = ({
   );
 };
 
-Item.Skeleton = function ItemSkelton({ level }: { level?: number }) {
+Item.Skeleton = function ItemSkeleton({ level }: { level?: number }) {
   return (
     <div
       style={{

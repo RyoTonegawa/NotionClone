@@ -1,33 +1,28 @@
-"use client"
+"use client";
 import { ChevronsLeftRight } from "lucide-react";
-import{SignOutButton, useUser} from "@clerk/clerk-react"
-import { 
-  Avatar,
-  AvatarImage
- } from "@/components/ui/avatar";
- import {
+import { SignOutButton, useUser } from "@clerk/clerk-react";
+import { Avatar, AvatarImage } from "@/components/ui/avatar";
+import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuSubTrigger,
-  } from "@/components/ui/dropdown-menu";
+} from "@/components/ui/dropdown-menu";
 import { DropdownMenuTrigger } from "@radix-ui/react-dropdown-menu";
 const UserItem = () => {
-  const {user} = useUser();
-  return ( 
+  const { user } = useUser();
+  return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
-        <div 
+        <div
           role="button"
           className="flex items-center text-sm p-3 w-full hover:bg-primary/5"
         >
-          <div
-            className="gap-x-2 flex items-center max-w-[150px]"
-          >
+          <div className="gap-x-2 flex items-center max-w-[150px]">
             <Avatar className="h-5 w-5">
-              <AvatarImage src={user?.imageUrl}/>
+              <AvatarImage src={user?.imageUrl} />
             </Avatar>
             <span className="text-start font-medium line-clamp-1">
               {user?.username}&apos;s Jotion
@@ -49,27 +44,24 @@ const UserItem = () => {
           <div className="flex items-center gap-x-2">
             <div className="rounded-md bg-secondary p-1">
               <Avatar className="h-8 w-8">
-                <AvatarImage src={user?.imageUrl}/>
+                <AvatarImage src={user?.imageUrl} />
               </Avatar>
             </div>
-            <div
-              className="text-sm line-clamp-1"
-            >
+            <div className="text-sm line-clamp-1">
               {user?.firstName}&apos;s Jotion
             </div>
           </div>
         </div>
-      <DropdownMenuSeparator/>
-        <DropdownMenuItem 
+        <DropdownMenuSeparator />
+        <DropdownMenuItem
           asChild
-          className="w-full cursor-pointer text-muted-foreground">
-          <SignOutButton>
-            Log out  
-          </SignOutButton>
+          className="w-full cursor-pointer text-muted-foreground"
+        >
+          <SignOutButton>Log out</SignOutButton>
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>
-   );
-}
- 
+  );
+};
+
 export default UserItem;
